@@ -1,0 +1,5 @@
+-   id: script
+    name: Bash script
+    entry: bin/hook.sh
+    language: script
+    files: ''
